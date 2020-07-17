@@ -8,6 +8,7 @@
 ## Author
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](#)
 
+
 If you liked the repo I made pls do give it a ⭐ and feel free to 🍴 :D
 
 
@@ -15,4 +16,4 @@ If you liked the repo I made pls do give it a ⭐ and feel free to 🍴 :D
 ## Contributions Welcome
 If you find any bugs or would like to polish the design for the improvements then feel free to generate a pull request.
 
-Copyright (c) 2020-present, fidelis (April Joie A. Enaño)
+Copyright (c) 2020-present, fidelis24 (April Joie A. Enaño)
