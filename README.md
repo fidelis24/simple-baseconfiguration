@@ -14,6 +14,9 @@ If you liked the repo I made pls do give it a ⭐ and feel free to 🍴 :D
 
 
 ## Contributions Welcome
-If you find any bugs or would like to polish the design for the improvements then feel free to generate a pull request.
+If you find any bugs then feel free to generate a pull request.
+
+## Modify
+If you would like to modify/polish the design for the improvements of the network, you can as well. :D
 
 Copyright (c) 2020-present, fidelis24 (April Joie A. Enaño)
